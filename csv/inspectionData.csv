@@ -1,0 +1,216 @@
+iCount,propNum,MainCat,item_name,keyName,keyValue
+494,3109,Bathroom,Bathroom - Moisture,Status,No
+2,3109,Bathroom,Bathroom - Moisture,Status,Yes
+489,3109,Bathroom,Bathtub / Shower Faucet,Condition,Acceptable
+6,3109,Bathroom,Bathtub / Shower Faucet,Condition,Repair
+1,3109,Bathroom,Bathtub / Shower Faucet,Condition,Replace
+489,3109,Bathroom,Bathtub / Shower Surround,Condition,Acceptable
+1,3109,Bathroom,Bathtub / Shower Surround,Condition,Repair
+6,3109,Bathroom,Bathtub / Shower Surround,Condition,Resurface
+496,3109,Bathroom,Cabinets,Condition,Acceptable
+492,3109,Bathroom,Countertops,Condition,Acceptable
+3,3109,Bathroom,Countertops,Condition,Replace
+1,3109,Bathroom,Countertops,Condition,Resurface
+2,3109,Bathroom,Exhaust Fan with Dedicated Switch,Status,NA
+494,3109,Bathroom,Exhaust Fan with Dedicated Switch,Status,Yes
+496,3109,Bathroom,Light Fixture,Condition,Acceptable
+491,3109,Bathroom,Mirror,Condition,Acceptable
+5,3109,Bathroom,Mirror,Condition,Replace
+84,3109,Bathroom,Shower Doors,Condition,Acceptable
+412,3109,Bathroom,Shower Doors,Condition,NA
+496,3109,Bathroom,Sink,Condition,Acceptable
+496,3109,Bathroom,Sink Faucet,Condition,Acceptable
+495,3109,Bathroom,Toilet,Condition,Acceptable
+1,3109,Bathroom,Toilet,Condition,Repair
+496,3109,Bathroom,Toilet Type,Type,1.6 GPF and under
+560,3109,Bedroom,Bedroom - Moisture,Status,No
+558,3109,Bedroom,Closet Doors,Condition,Acceptable
+2,3109,Bedroom,Closet Doors,Condition,Repair
+1,3109,Compliance,Daily Deposits,Status,Yes
+1,3109,Compliance,First Aid Kit Stocked,Status,Yes
+1,3109,Compliance,Key Control Procedures,Status,Yes
+1,3109,Compliance,Petty $ (Total Fund and Receipts),Amount,Amount
+1,3109,Compliance,"Renters Insurance, CUBS, Demographics, Bonuses",Status,Yes
+1,3109,Compliance,SDS Book(s) Current / PM Log / Monthly Safety Meet,Status,Yes
+338,3109,General,Carpet,Condition,Acceptable
+49,3109,General,Carpet,Condition,NA
+9,3109,General,Carpet,Condition,Repair
+24,3109,General,Carpet,Condition,Replace
+419,3109,General,Ceiling Condition,Condition,Acceptable
+1,3109,General,Ceiling Condition,Condition,Repair
+34,3109,General,Condensation Pans,Condition,Acceptable
+386,3109,General,Condensation Pans,Condition,NA
+17,3109,General,Detector Compliance / Total in Unit,CO Detector Count,NA
+16,3109,General,Detector Compliance / Total in Unit,Dual Smoke/CO Detector Count,NA
+1,3109,General,Detector Compliance / Total in Unit,Smoke Detectors Count,NA
+17,3109,General,Detector Condition,CO Detector Condition,NA
+50,3109,General,Detector Condition,Dual Smoke/CO Detector Condition,NA
+2,3109,General,Detector Condition,Dual Smoke/CO Detector Condition,OK
+11,3109,General,Detector Condition,Smoke Detector Condition,0
+4,3109,General,Detector Condition,Smoke Detector Condition,NA
+373,3109,General,Detector Condition,Smoke Detector Condition,OK
+419,3109,General,FAU Closet - Moisture,Status,NA
+1,3109,General,FAU Closet - Moisture,Status,No
+10,3109,General,Furnace Filter Service / Change,Condition,Changed
+7,3109,General,Furnace Filter Service / Change,Condition,N/A
+403,3109,General,Furnace Filter Service / Change,Condition,OK / Not Changed
+333,3109,General,Heater,Condition,Acceptable
+86,3109,General,Heater,Condition,NA
+1,3109,General,Heater,Condition,Repair
+301,3109,General,HVAC / AC,Condition,Acceptable
+119,3109,General,HVAC / AC,Condition,NA
+412,3109,General,HVAC / AC Sticker Installed,Status,NA
+8,3109,General,HVAC / AC Sticker Installed,Status,Yes
+420,3109,General,Moisture on Window Seals/Sills,Status,No
+416,3109,General,Vinyl,Condition,Acceptable
+1,3109,General,Vinyl,Condition,NA
+3,3109,General,Vinyl,Condition,Repair
+420,3109,General,Window Coverings,Condition,Acceptable
+205,3109,General,Window Sticker Installed - Upstairs Units,Status,NA
+215,3109,General,Window Sticker Installed - Upstairs Units,Status,Yes
+114,3109,Kitchen,Built In Stove Top / Oven,Condition,Acceptable
+306,3109,Kitchen,Built In Stove Top / Oven,Condition,NA
+416,3109,Kitchen,Cabinets,Condition,Acceptable
+4,3109,Kitchen,Cabinets,Condition,Repair
+419,3109,Kitchen,Countertop,Condition,Acceptable
+1,3109,Kitchen,Countertop,Condition,Replace
+330,3109,Kitchen,Dishwasher,Condition,Acceptable
+89,3109,Kitchen,Dishwasher,Condition,NA
+1,3109,Kitchen,Dishwasher,Condition,Repair
+420,3109,Kitchen,Faucet,Condition,Acceptable
+419,3109,Kitchen,Garbage Disposal,Condition,Acceptable
+1,3109,Kitchen,Garbage Disposal,Condition,Repair
+420,3109,Kitchen,Kitchen - Moisture,Status,No
+7,3109,Kitchen,Microwave,Condition,Acceptable
+413,3109,Kitchen,Microwave,Condition,NA
+413,3109,Kitchen,Range / Oven,Condition,Acceptable
+6,3109,Kitchen,Range / Oven,Condition,NA (Built In)
+1,3109,Kitchen,Range / Oven,Condition,Repair
+8,3109,Kitchen,Range Anti-Tip Device,Status,NA
+412,3109,Kitchen,Range Anti-Tip Device,Status,Yes
+417,3109,Kitchen,Range Hood,Condition,Acceptable
+3,3109,Kitchen,Range Hood,Condition,NA
+415,3109,Kitchen,Refrigerator,Condition,Acceptable
+5,3109,Kitchen,Refrigerator,Condition,NA
+11,3109,Kitchen,Refrigerator Supply Line,Condition,Acceptable
+409,3109,Kitchen,Refrigerator Supply Line,Condition,NA
+419,3109,Kitchen,Sink,Condition,Acceptable
+1,3109,Kitchen,Sink,Condition,Repair
+1,3109,Laundry Area,Dryer,Condition,Acceptable
+419,3109,Laundry Area,Dryer,Condition,NA
+419,3109,Laundry Area,Dryer Vent Clean,Status,NA
+1,3109,Laundry Area,Dryer Vent Clean,Status,Yes
+413,3109,Laundry Area,Exhaust Fan,Status,NA
+7,3109,Laundry Area,Exhaust Fan,Status,Yes
+417,3109,Laundry Area,Laundry Room - Moisture,Status,NA
+3,3109,Laundry Area,Laundry Room - Moisture,Status,No
+1,3109,Laundry Area,Washer,Condition,Acceptable
+419,3109,Laundry Area,Washer,Condition,NA
+3,3109,Lease File Audit,Additional Charges $,Amount,Amount
+1,3109,Lease File Audit,Applicant File Audit,Status,NA
+2,3109,Lease File Audit,Applicant File Audit,Status,Yes
+3,3109,Lease File Audit,Asbestos Addendum in File,Status,Yes
+3,3109,Lease File Audit,Base Monthly Rental Amount $,Amount,Amount
+1,3109,Lease File Audit,Completed and Executed Application in File (one fo,Status,NA
+2,3109,Lease File Audit,Completed and Executed Application in File (one fo,Status,Yes
+1,3109,Lease File Audit,Consumer Report Disclosure Signed,Status,NA
+2,3109,Lease File Audit,Consumer Report Disclosure Signed,Status,Yes
+1,3109,Lease File Audit,Copies of Monies in File (Funds/Paylease),Status,NA
+2,3109,Lease File Audit,Copies of Monies in File (Funds/Paylease),Status,Yes
+1,3109,Lease File Audit,Copy of Licenses/IDs in file for all lease signers,Status,NA
+2,3109,Lease File Audit,Copy of Licenses/IDs in file for all lease signers,Status,Yes
+1,3109,Lease File Audit,Credit Company Summary Attached,Status,NA
+2,3109,Lease File Audit,Credit Company Summary Attached,Status,Yes
+1,3109,Lease File Audit,Date of Application,Status,NA
+2,3109,Lease File Audit,Date of Application,Status,Yes
+3,3109,Lease File Audit,Deposit Amount $,Amount,Amount
+3,3109,Lease File Audit,Executed Mold Addendum in File,Status,Yes
+3,3109,Lease File Audit,Felony Checkbox Reviewed,Status,NA
+1,3109,Lease File Audit,Financially Qualifies,Status,NA
+2,3109,Lease File Audit,Financially Qualifies,Status,Yes
+1,3109,Lease File Audit,Guest Card in File,Status,NA
+2,3109,Lease File Audit,Guest Card in File,Status,Yes
+1,3109,Lease File Audit,Income Properly Stated on Credit Summary,Status,NA
+2,3109,Lease File Audit,Income Properly Stated on Credit Summary,Status,Yes
+3,3109,Lease File Audit,Intent to Vacate Executed by All Parties,Status,NA
+3,3109,Lease File Audit,Lead Addendum in File - Where Applicable,Status,Yes
+3,3109,Lease File Audit,Lease / Addendums Executed by all Parties,Status,Yes
+3,3109,Lease File Audit,Ledger Balance,Amount,Amount
+3,3109,Lease File Audit,Ledger Reviewed,Status,Yes
+1,3109,Lease File Audit,Manager Approval is Reflected,Status,NA
+2,3109,Lease File Audit,Manager Approval is Reflected,Status,Yes
+3,3109,Lease File Audit,Move-In / Move-Out Checklist Signed - Mold Section,Status,Yes
+3,3109,Lease File Audit,Move-In Date,Status,Yes
+3,3109,Lease File Audit,On Notice Audit,Status,NA
+3,3109,Lease File Audit,Pesticide Disclosure in File,Status,Yes
+3,3109,Lease File Audit,"Pet / Service Animal Information Reviewed (type, d",Status,Yes
+1,3109,Lease File Audit,Signed File Checklist,Status,NA
+2,3109,Lease File Audit,Signed File Checklist,Status,Yes
+3,3109,Lease File Audit,Unit #,Yes - No - NA,Yes
+1,3109,Lease File Audit,Verification of all Income in File,Status,NA
+2,3109,Lease File Audit,Verification of all Income in File,Status,Yes
+3,3109,Lease File Audit,Verify Income Calculation,Amount,Amount
+1,3109,Leasing Office / Administrative,Charge / Adjustment Review Report,Status,Yes
+1,3109,Leasing Office / Administrative,Daily Activity Report,Status,Yes
+1,3109,Leasing Office / Administrative,"Leasing office cleanliness, organization, refreshm",Status,Yes
+1,3109,Leasing Office / Administrative,Market / Submarket Review Report,Status,Yes
+1,3109,Leasing Office / Administrative,"Name Tags, Proper Attire, CREDO Meetings",Status,Yes
+1,3109,Leasing Office / Administrative,Pre-paid / Delinquency Review Report,Status,Yes
+1,3109,Leasing Office / Administrative,Previous Deficiencies Corrected?,Status,NA
+1,3109,Leasing Office / Administrative,Reviewed Cares Calls for Completion,Status,Yes
+1,3109,Leasing Office / Administrative,UAD / Red Book Updated,Status,Yes
+412,3109,Living / Dining Room,Ceiling Fan / Light Fixture,Condition,Acceptable
+7,3109,Living / Dining Room,Ceiling Fan / Light Fixture,Condition,NA
+1,3109,Living / Dining Room,Ceiling Fan / Light Fixture,Condition,Repair
+420,3109,Living / Dining Room,Living / Dining Room  - Moisture,Status,No
+1,3109,Maintenance & Storage,Electrical Rooms / Elevators / Equipment Rooms / T,Status,NA
+1,3109,Maintenance & Storage,First Aid Kits Stocked Adequately / Eye Wash Stati,Status,Yes
+1,3109,Maintenance & Storage,Inspected All Maintenance Garage / Storage Closets,Status,Yes
+1,3109,Maintenance & Storage,Maintenance Shop / Storage Shop(s),Status,Yes
+1,3109,Maintenance & Storage,Review light inspection report,Status,Yes
+1,3109,Maintenance & Storage,Shop Inventory Control,Status,Yes
+1,3109,Maintenance & Storage,"Shop Organized, Parts Labeled, Hazardous Materials",Status,Yes
+1,3109,Maintenance & Storage,Verified SDS on Hand from Chemical in Shop,Status,Yes
+1,3109,Maintenance & Storage,Visual Inspection of the Golf Cart,Status,Yes
+413,3109,Occupancy,Housekeeping,Status,No
+7,3109,Occupancy,Housekeeping,Status,Yes
+418,3109,Occupancy,Over Occupancy,Status,No
+2,3109,Occupancy,Over Occupancy,Status,Yes
+420,3109,Occupancy,Pest Control Needed,Status,No
+289,3109,Occupancy,Pets in Unit,Status,No
+131,3109,Occupancy,Pets in Unit,Status,Yes
+420,3109,Occupancy,Unit Entry,Yes No,Yes
+1,3109,Patio,BBQ Grill on Patio,BBQ Grill Type,Electric
+152,3109,Patio,BBQ Grill on Patio,Status,NA
+267,3109,Patio,BBQ Grill on Patio,Status,No
+1,3109,Patio,BBQ Grill on Patio,Status,Yes
+414,3109,Patio,Patio Capital,Condition,Acceptable
+1,3109,Patio,Patio Capital,Condition,NA
+3,3109,Patio,Patio Capital,Condition,Repair
+127,3109,Patio,Patio Capital,Patio Capital Type,Concrete
+1,3109,Patio,Patio Capital,Patio Capital Type,Deck
+163,3109,Patio,Patio Capital,Patio Capital Type,Wood
+414,3109,Patio,Satellite Dish - Is in patio compliance,Status,NA
+6,3109,Patio,Satellite Dish - Is in patio compliance,Status,Yes
+420,3109,Patio,Water Heater,Condition,NA
+420,3109,Patio,Water Heater Accessible,Status,NA
+420,3109,Patio,Water Heater Closet - Moisture,Status,NA
+2,3109,Patio,Water Heater Closet Drywall,Condition,Acceptable
+418,3109,Patio,Water Heater Closet Drywall,Condition,NA
+420,3109,Patio,Water Heater Sticker Installed,Status,NA
+420,3109,Patio,Water Heater Strap Installed,Status,NA
+1,3109,Site & Unit Walk,Additional Amenities,Status,Yes
+1,3109,Site & Unit Walk,Amenity - Clubhouse In Good Order,Status,Yes
+1,3109,Site & Unit Walk,Amenity - Laundry Room In Good Order,Status,Yes
+1,3109,Site & Unit Walk,Amenity - Pool In Good Order,Status,Yes
+1,3109,Site & Unit Walk,Amenity ? Fitness Center In Good Order,Status,Yes
+1,3109,Site & Unit Walk,Balcony Inspection,Status,Yes
+1,3109,Site & Unit Walk,General Site Condition,Status,Yes
+1,3109,Site & Unit Walk,Inspect Model Unit - In Good Condition,Yes - No - NA,Yes
+1,3109,Site & Unit Walk,Inspect Unit Rent Ready - In Good Condition,Yes - No - NA,Yes
+1,3109,Site & Unit Walk,Inspected Pool Log for Daily Recordings,Status,Yes
+1,3109,Site & Unit Walk,Landscape Review,Status,Yes
+1,3109,Site & Unit Walk,Longest Vacant Unit / Rent Ready Compliance,Yes - No - NA,NA
+1,3109,Site & Unit Walk,Market Window,Status,Yes
+1,3109,Site & Unit Walk,Red Curbs Condition,Status,Yes
+1,3109,Verification of Manager Ackowledgement,Inspection Completed & Required Comment,Yes - No,Yes

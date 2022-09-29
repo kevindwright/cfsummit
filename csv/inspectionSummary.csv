@@ -1,0 +1,139 @@
+iCount,propNum,propName,sectionName,MainCat,item_name,keyName,keyValue,WO_keyName,WO_keyValue
+494,3109,Coco Village,Bathroom,Bathroom,Bathroom - Moisture,Status,No,Status,No
+2,3109,Coco Village,Bathroom,Bathroom,Bathroom - Moisture,Status,Yes,Status,Yes
+489,3109,Coco Village,Bathroom,Bathroom,Bathtub / Shower Faucet,Condition,Acceptable,Condition,Acceptable
+6,3109,Coco Village,Bathroom,Bathroom,Bathtub / Shower Faucet,Condition,Repair,Condition,Repair
+1,3109,Coco Village,Bathroom,Bathroom,Bathtub / Shower Faucet,Condition,Replace,Condition,Replace
+489,3109,Coco Village,Bathroom,Bathroom,Bathtub / Shower Surround,Condition,Acceptable,Condition,Acceptable
+1,3109,Coco Village,Bathroom,Bathroom,Bathtub / Shower Surround,Condition,Repair,Condition,Repair
+6,3109,Coco Village,Bathroom,Bathroom,Bathtub / Shower Surround,Condition,Resurface,Condition,Resurface
+496,3109,Coco Village,Bathroom,Bathroom,Cabinets,Condition,Acceptable,Condition,Acceptable
+492,3109,Coco Village,Bathroom,Bathroom,Countertops,Condition,Acceptable,Condition,Acceptable
+3,3109,Coco Village,Bathroom,Bathroom,Countertops,Condition,Replace,Condition,Replace
+1,3109,Coco Village,Bathroom,Bathroom,Countertops,Condition,Resurface,Condition,Resurface
+2,3109,Coco Village,Bathroom,Bathroom,Exhaust Fan with Dedicated Switch,Status,NA,Status,NA
+494,3109,Coco Village,Bathroom,Bathroom,Exhaust Fan with Dedicated Switch,Status,Yes,Status,Yes
+496,3109,Coco Village,Bathroom,Bathroom,Light Fixture,Condition,Acceptable,Condition,Acceptable
+491,3109,Coco Village,Bathroom,Bathroom,Mirror,Condition,Acceptable,Condition,Acceptable
+5,3109,Coco Village,Bathroom,Bathroom,Mirror,Condition,Replace,Condition,Replace
+84,3109,Coco Village,Bathroom,Bathroom,Shower Doors,Condition,Acceptable,Condition,Acceptable
+412,3109,Coco Village,Bathroom,Bathroom,Shower Doors,Condition,NA,Condition,NA
+496,3109,Coco Village,Bathroom,Bathroom,Sink,Condition,Acceptable,Condition,Acceptable
+496,3109,Coco Village,Bathroom,Bathroom,Sink Faucet,Condition,Acceptable,Condition,Acceptable
+495,3109,Coco Village,Bathroom,Bathroom,Toilet,Condition,Acceptable,Condition,Acceptable
+1,3109,Coco Village,Bathroom,Bathroom,Toilet,Condition,Repair,Condition,Repair
+496,3109,Coco Village,Bathroom,Bathroom,Toilet Type,Type,1.6 GPF and under,Type,1.6 GPF and under
+560,3109,Coco Village,Bedroom,Bedroom,Bedroom - Moisture,Status,No,Status,No
+558,3109,Coco Village,Bedroom,Bedroom,Closet Doors,Condition,Acceptable,Condition,Acceptable
+2,3109,Coco Village,Bedroom,Bedroom,Closet Doors,Condition,Repair,Condition,Repair
+338,3109,Coco Village,General,General,Carpet,Condition,Acceptable,Condition,Acceptable
+49,3109,Coco Village,General,General,Carpet,Condition,NA,Condition,NA
+9,3109,Coco Village,General,General,Carpet,Condition,Repair,Condition,Repair
+24,3109,Coco Village,General,General,Carpet,Condition,Replace,Condition,Replace
+419,3109,Coco Village,General,General,Ceiling Condition,Condition,Acceptable,Condition,Acceptable
+1,3109,Coco Village,General,General,Ceiling Condition,Condition,Repair,Condition,Repair
+34,3109,Coco Village,General,General,Condensation Pans,Condition,Acceptable,Condition,Acceptable
+386,3109,Coco Village,General,General,Condensation Pans,Condition,NA,Condition,NA
+17,3109,Coco Village,General,General,Detector Compliance / Total in Unit,CO Detector Count,NA,CO Detector Count,NA
+1,3109,Coco Village,General,General,Detector Compliance / Total in Unit,Dual Smoke/CO Detector Count,1,Dual Smoke/CO Detector Count,1
+16,3109,Coco Village,General,General,Detector Compliance / Total in Unit,Dual Smoke/CO Detector Count,NA,Dual Smoke/CO Detector Count,NA
+115,3109,Coco Village,General,General,Detector Compliance / Total in Unit,Smoke Detectors Count,1,Smoke Detectors Count,1
+172,3109,Coco Village,General,General,Detector Compliance / Total in Unit,Smoke Detectors Count,2,Smoke Detectors Count,2
+69,3109,Coco Village,General,General,Detector Compliance / Total in Unit,Smoke Detectors Count,3,Smoke Detectors Count,3
+63,3109,Coco Village,General,General,Detector Compliance / Total in Unit,Smoke Detectors Count,4,Smoke Detectors Count,4
+1,3109,Coco Village,General,General,Detector Compliance / Total in Unit,Smoke Detectors Count,NA,Smoke Detectors Count,NA
+17,3109,Coco Village,General,General,Detector Condition,CO Detector Condition,NA,CO Detector Condition,NA
+50,3109,Coco Village,General,General,Detector Condition,Dual Smoke/CO Detector Condition,NA,Dual Smoke/CO Detector Condition,NA
+2,3109,Coco Village,General,General,Detector Condition,Dual Smoke/CO Detector Condition,OK,Dual Smoke/CO Detector Condition,OK
+4,3109,Coco Village,General,General,Detector Condition,Smoke Detector Condition,NA,Smoke Detector Condition,NA
+373,3109,Coco Village,General,General,Detector Condition,Smoke Detector Condition,OK,Smoke Detector Condition,OK
+7,3109,Coco Village,General,General,Detector Condition,Smoke Detector Condition,Replace 1,Smoke Detector Condition,Replace 1
+2,3109,Coco Village,General,General,Detector Condition,Smoke Detector Condition,Replace 2,Smoke Detector Condition,Replace 2
+419,3109,Coco Village,General,General,FAU Closet - Moisture,Status,NA,Status,NA
+1,3109,Coco Village,General,General,FAU Closet - Moisture,Status,No,Status,No
+10,3109,Coco Village,General,General,Furnace Filter Service / Change,Condition,Changed,Condition,Changed
+7,3109,Coco Village,General,General,Furnace Filter Service / Change,Condition,N/A,Condition,N/A
+403,3109,Coco Village,General,General,Furnace Filter Service / Change,Condition,OK / Not Changed,Condition,OK / Not Changed
+333,3109,Coco Village,General,General,Heater,Condition,Acceptable,Condition,Acceptable
+86,3109,Coco Village,General,General,Heater,Condition,NA,Condition,NA
+1,3109,Coco Village,General,General,Heater,Condition,Repair,Condition,Repair
+301,3109,Coco Village,General,General,HVAC / AC,Condition,Acceptable,Condition,Acceptable
+119,3109,Coco Village,General,General,HVAC / AC,Condition,NA,Condition,NA
+412,3109,Coco Village,General,General,HVAC / AC Sticker Installed,Status,NA,Status,NA
+8,3109,Coco Village,General,General,HVAC / AC Sticker Installed,Status,Yes,Status,Yes
+420,3109,Coco Village,General,General,Moisture on Window Seals/Sills,Status,No,Status,No
+416,3109,Coco Village,General,General,Vinyl,Condition,Acceptable,Condition,Acceptable
+1,3109,Coco Village,General,General,Vinyl,Condition,NA,Condition,NA
+3,3109,Coco Village,General,General,Vinyl,Condition,Repair,Condition,Repair
+420,3109,Coco Village,General,General,Window Coverings,Condition,Acceptable,Condition,Acceptable
+205,3109,Coco Village,General,General,Window Sticker Installed - Upstairs Units,Status,NA,Status,NA
+215,3109,Coco Village,General,General,Window Sticker Installed - Upstairs Units,Status,Yes,Status,Yes
+114,3109,Coco Village,Kitchen,Kitchen,Built In Stove Top / Oven,Condition,Acceptable,Condition,Acceptable
+306,3109,Coco Village,Kitchen,Kitchen,Built In Stove Top / Oven,Condition,NA,Condition,NA
+416,3109,Coco Village,Kitchen,Kitchen,Cabinets,Condition,Acceptable,Condition,Acceptable
+4,3109,Coco Village,Kitchen,Kitchen,Cabinets,Condition,Repair,Condition,Repair
+419,3109,Coco Village,Kitchen,Kitchen,Countertop,Condition,Acceptable,Condition,Acceptable
+1,3109,Coco Village,Kitchen,Kitchen,Countertop,Condition,Replace,Condition,Replace
+330,3109,Coco Village,Kitchen,Kitchen,Dishwasher,Condition,Acceptable,Condition,Acceptable
+89,3109,Coco Village,Kitchen,Kitchen,Dishwasher,Condition,NA,Condition,NA
+1,3109,Coco Village,Kitchen,Kitchen,Dishwasher,Condition,Repair,Condition,Repair
+420,3109,Coco Village,Kitchen,Kitchen,Faucet,Condition,Acceptable,Condition,Acceptable
+419,3109,Coco Village,Kitchen,Kitchen,Garbage Disposal,Condition,Acceptable,Condition,Acceptable
+1,3109,Coco Village,Kitchen,Kitchen,Garbage Disposal,Condition,Repair,Condition,Repair
+420,3109,Coco Village,Kitchen,Kitchen,Kitchen - Moisture,Status,No,Status,No
+7,3109,Coco Village,Kitchen,Kitchen,Microwave,Condition,Acceptable,Condition,Acceptable
+413,3109,Coco Village,Kitchen,Kitchen,Microwave,Condition,NA,Condition,NA
+413,3109,Coco Village,Kitchen,Kitchen,Range / Oven,Condition,Acceptable,Condition,Acceptable
+6,3109,Coco Village,Kitchen,Kitchen,Range / Oven,Condition,NA (Built In),Condition,NA (Built In)
+1,3109,Coco Village,Kitchen,Kitchen,Range / Oven,Condition,Repair,Condition,Repair
+8,3109,Coco Village,Kitchen,Kitchen,Range Anti-Tip Device,Status,NA,Status,NA
+412,3109,Coco Village,Kitchen,Kitchen,Range Anti-Tip Device,Status,Yes,Status,Yes
+417,3109,Coco Village,Kitchen,Kitchen,Range Hood,Condition,Acceptable,Condition,Acceptable
+3,3109,Coco Village,Kitchen,Kitchen,Range Hood,Condition,NA,Condition,NA
+415,3109,Coco Village,Kitchen,Kitchen,Refrigerator,Condition,Acceptable,Condition,Acceptable
+5,3109,Coco Village,Kitchen,Kitchen,Refrigerator,Condition,NA,Condition,NA
+11,3109,Coco Village,Kitchen,Kitchen,Refrigerator Supply Line,Condition,Acceptable,Condition,Acceptable
+409,3109,Coco Village,Kitchen,Kitchen,Refrigerator Supply Line,Condition,NA,Condition,NA
+419,3109,Coco Village,Kitchen,Kitchen,Sink,Condition,Acceptable,Condition,Acceptable
+1,3109,Coco Village,Kitchen,Kitchen,Sink,Condition,Repair,Condition,Repair
+1,3109,Coco Village,Laundry Area,Laundry Area,Dryer,Condition,Acceptable,Condition,Acceptable
+419,3109,Coco Village,Laundry Area,Laundry Area,Dryer,Condition,NA,Condition,NA
+419,3109,Coco Village,Laundry Area,Laundry Area,Dryer Vent Clean,Status,NA,Status,NA
+1,3109,Coco Village,Laundry Area,Laundry Area,Dryer Vent Clean,Status,Yes,Status,Yes
+413,3109,Coco Village,Laundry Area,Laundry Area,Exhaust Fan,Status,NA,Status,NA
+7,3109,Coco Village,Laundry Area,Laundry Area,Exhaust Fan,Status,Yes,Status,Yes
+417,3109,Coco Village,Laundry Area,Laundry Area,Laundry Room - Moisture,Status,NA,Status,NA
+3,3109,Coco Village,Laundry Area,Laundry Area,Laundry Room - Moisture,Status,No,Status,No
+1,3109,Coco Village,Laundry Area,Laundry Area,Washer,Condition,Acceptable,Condition,Acceptable
+419,3109,Coco Village,Laundry Area,Laundry Area,Washer,Condition,NA,Condition,NA
+412,3109,Coco Village,Living / Dining Room,Living / Dining Room,Ceiling Fan / Light Fixture,Condition,Acceptable,Condition,Acceptable
+7,3109,Coco Village,Living / Dining Room,Living / Dining Room,Ceiling Fan / Light Fixture,Condition,NA,Condition,NA
+1,3109,Coco Village,Living / Dining Room,Living / Dining Room,Ceiling Fan / Light Fixture,Condition,Repair,Condition,Repair
+420,3109,Coco Village,Living / Dining Room,Living / Dining Room,Living / Dining Room  - Moisture,Status,No,Status,No
+413,3109,Coco Village,Occupancy,Occupancy,Housekeeping,Status,No,Status,No
+7,3109,Coco Village,Occupancy,Occupancy,Housekeeping,Status,Yes,Status,Yes
+418,3109,Coco Village,Occupancy,Occupancy,Over Occupancy,Status,No,Status,No
+2,3109,Coco Village,Occupancy,Occupancy,Over Occupancy,Status,Yes,Status,Yes
+420,3109,Coco Village,Occupancy,Occupancy,Pest Control Needed,Status,No,Status,No
+289,3109,Coco Village,Occupancy,Occupancy,Pets in Unit,Status,No,Status,No
+131,3109,Coco Village,Occupancy,Occupancy,Pets in Unit,Status,Yes,Status,Yes
+420,3109,Coco Village,Occupancy,Occupancy,Unit Entry,Yes No,Yes,Yes No,Yes
+1,3109,Coco Village,Patio,Patio,BBQ Grill on Patio,BBQ Grill Type,Electric,BBQ Grill Type,Electric
+152,3109,Coco Village,Patio,Patio,BBQ Grill on Patio,Status,NA,Status,NA
+267,3109,Coco Village,Patio,Patio,BBQ Grill on Patio,Status,No,Status,No
+1,3109,Coco Village,Patio,Patio,BBQ Grill on Patio,Status,Yes,Status,Yes
+414,3109,Coco Village,Patio,Patio,Patio Capital,Condition,Acceptable,Condition,Acceptable
+1,3109,Coco Village,Patio,Patio,Patio Capital,Condition,NA,Condition,NA
+3,3109,Coco Village,Patio,Patio,Patio Capital,Condition,Repair,Condition,Repair
+127,3109,Coco Village,Patio,Patio,Patio Capital,Patio Capital Type,Concrete,Patio Capital Type,Concrete
+1,3109,Coco Village,Patio,Patio,Patio Capital,Patio Capital Type,Deck,Patio Capital Type,Deck
+163,3109,Coco Village,Patio,Patio,Patio Capital,Patio Capital Type,Wood,Patio Capital Type,Wood
+414,3109,Coco Village,Patio,Patio,Satellite Dish - Is in patio compliance,Status,NA,Status,NA
+6,3109,Coco Village,Patio,Patio,Satellite Dish - Is in patio compliance,Status,Yes,Status,Yes
+420,3109,Coco Village,Patio,Patio,Water Heater,Condition,NA,Condition,NA
+420,3109,Coco Village,Patio,Patio,Water Heater Accessible,Status,NA,Status,NA
+420,3109,Coco Village,Patio,Patio,Water Heater Closet - Moisture,Status,NA,Status,NA
+2,3109,Coco Village,Patio,Patio,Water Heater Closet Drywall,Condition,Acceptable,Condition,Acceptable
+418,3109,Coco Village,Patio,Patio,Water Heater Closet Drywall,Condition,NA,Condition,NA
+420,3109,Coco Village,Patio,Patio,Water Heater Sticker Installed,Status,NA,Status,NA
+420,3109,Coco Village,Patio,Patio,Water Heater Strap Installed,Status,NA,Status,NA
