@@ -1,0 +1,29 @@
+body, html, div, table, fieldset {
+    font-size: 100%;
+    line-height: 1.4em;
+}
+
+.navbar {
+    color: #006699;
+    font-family: verdana, sans-serif;
+    text-decoration: none;
+}
+
+.navbottom {
+    color: #ffffff;
+    font-family: verdana, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 3px;
+    border-bottom: 1px solid #b2d9ec;
+    background-color: darkslateblue;
+    empty-cells: show;
+}
+
+.RuleGrey {
+    padding: 0;
+    height: 1px;
+    overflow: hidden;
+    background-color: #CCCCCC;
+    empty-cells: show;
+}
